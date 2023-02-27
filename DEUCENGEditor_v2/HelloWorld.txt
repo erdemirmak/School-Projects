@@ -1,0 +1,12 @@
+Project: CENG Editor
+
+The goal  of the project is to develop  a simplified console
+editor.
+
+General Information
+
+This project  consists of  an editor  that provides  various
+word  processing  capabilities  in an  active work  space of
+20*60 characters.
+
+Features
